@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ComposeFitnessApp</string>
+    <string name="title_activity_welcome_screen">WelcomeScreen</string>
+    <string name="track_goal_content_desc">Track goal</string>
+
+    <string name="track_goal_title">Track Your Goal</string>
+    <string name="track_goal_desc">Don\'t worry if you have trouble determining your goals, We can help you determine your goals and track your goals</string>
+
+    <string name="get_burn_title">Get Burn</string>
+    <string name="get_burn_desc">Let’s keep burning, to achieve yours goals, it hurts only temporarily, if you give up now you will be in pain forever</string>
+
+    <string name="eat_well_title">Eat Well</string>
+    <string name="eat_well_desc">Let\'s start a healthy lifestyle with us, we can determine your diet every day. healthy eating is fun</string>
+
+    <string name="improve_sleep_title">Improve Sleep Quality</string>
+    <string name="improve_sleep_desc">Improve the quality of your sleep with us, good quality sleep can bring a good mood in the morning</string>
+
+    <string name="improve_shape_title">Improve Shape</string>
+    <string name="improve_shape_desc">I have a low amount of body fat and need / want to build more muscle</string>
+
+    <string name="lean_tone_title">Lean &amp; Tone</string>
+    <string name="lean_tone_desc">I’m “skinny fat”. look thin but have no shape. I want to add learn muscle in the right way</string>
+
+    <string name="loose_fat_title">Lose a Fat</string>
+    <string name="loose_fat_desc">I have over 20 lbs to lose. I want to drop all this fat and gain muscle mass</string>
+
+</resources>
