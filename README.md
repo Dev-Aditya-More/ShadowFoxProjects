@@ -20,7 +20,7 @@ A collection of mini-projects built using **Kotlin** and **Jetpack Compose**, sh
 
 ---
 
-### 2. 🚀 JetpackComposeFitnessApp
+### 2. 🚀 FitnessApp
 > A playground project for testing animations, themes, and splash screens.
 
 **✅ Features:**
@@ -30,15 +30,15 @@ A collection of mini-projects built using **Kotlin** and **Jetpack Compose**, sh
 
 **🖼️ Screenshots:**
 <div align="center">
-  <img src="JetpackComposeApp/screenshots/1.png" width="250"/>
-  <img src="JetpackComposeApp/screenshots/2.png" width="250"/>
-  <img src="JetpackComposeApp/screenshots/3.png" width="250"/>
-  <img src="JetpackComposeApp/screenshots/4.png" width="250"/>
-  <img src="JetpackComposeApp/screenshots/5.png" width="250"/>
-  <img src="JetpackComposeApp/screenshots/6.png" width="250"/>
-  <img src="JetpackComposeApp/screenshots/7.png" width="250"/>
-  <img src="JetpackComposeApp/screenshots/8.png" width="250"/>
-  <img src="JetpackComposeApp/screenshots/9.png" width="250"/>
+  <img src="FitnessApp/screenshots/1.png" width="250"/>
+  <img src="FitnessApp/screenshots/2.png" width="250"/>
+  <img src="FitnessApp/screenshots/3.png" width="250"/>
+  <img src="FitnessApp/screenshots/4.png" width="250"/>
+  <img src="FitnessApp/screenshots/5.png" width="250"/>
+  <img src="FitnessApp/screenshots/6.png" width="250"/>
+  <img src="FitnessApp/screenshots/7.png" width="250"/>
+  <img src="FitnessApp/screenshots/8.png" width="250"/>
+  <img src="FitnessApp/screenshots/9.png" width="250"/>
 </div>
 
 ---
