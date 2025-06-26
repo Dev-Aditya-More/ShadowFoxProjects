@@ -72,9 +72,12 @@ A collection of mini-projects built using **Kotlin** and **Jetpack Compose**, sh
 
 **🖼️ Screenshots:**
 <div align="center">
-  <img src="ToDoList/1.png" width="250"/>
-  <img src="ToDoList/2.png" width="250"/>
-  <img src="ToDoList/Screenshot_20250426_152054.png" width="250"/>
+  <img src="ToDoList/screenshots_recordings/1.png" width="250"/>
+  <img src="ToDoList/screenshots_recordings/2.png" width="250"/>
+  <img src="ToDoList/screenshots_recordings/3.png" width="250"/>
+  <a href="ToDoList/screenshots_recordings/Screen_recording.mp4">
+    <img src="https://img.shields.io/badge/▶️%20ToDoList-Video-orange?style=for-the-badge" />
+  </a>
 </div>
 
 ---
